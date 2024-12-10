@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../PycharmProjects/Chuong7/.idea/Chuong7.iml" filepath="$PROJECT_DIR$/../../PycharmProjects/Chuong7/.idea/Chuong7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../PycharmProjects/PythonChuong9/.idea/PythonChuong9.iml" filepath="$PROJECT_DIR$/../../PycharmProjects/PythonChuong9/.idea/PythonChuong9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../PycharmProjects/QLCHtkinter/.idea/QLCHtkinter.iml" filepath="$PROJECT_DIR$/../../PycharmProjects/QLCHtkinter/.idea/QLCHtkinter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Weather_app.iml" filepath="$PROJECT_DIR$/.idea/Weather_app.iml" />
+    </modules>
+  </component>
+</project>
